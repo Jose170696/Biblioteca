@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Biblioteca.cs" />
     <Compile Include="Libro.cs" />
+    <Compile Include="LibroPrestado.cs" />
     <Compile Include="Miembro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
